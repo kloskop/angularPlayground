@@ -1,0 +1,16 @@
+.card {
+  margin: 0 0 1rem 0;
+  width: 500px;
+}
+
+.avatar {
+  width: 75px;
+  height: 75px;
+  border-radius: 15px;
+}
+
+.cardContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
